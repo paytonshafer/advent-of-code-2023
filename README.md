@@ -1,0 +1,2 @@
+# Advent of Code 2023
+This repo will hold my solutions for the problems from Advent of Code 2023. To start I will complete the solutions in JavaScript but I am also working on learning rust, so some solutions may be in rust as well. The problems can be found [here](https://adventofcode.com/2023).
