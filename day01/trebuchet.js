@@ -1,5 +1,4 @@
 const fs = require('fs');
-const { stringify } = require('querystring');
 
 // Part 1
 fs.readFile('input.txt', 'utf8', (err, data) => {
